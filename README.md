@@ -1,0 +1,1 @@
+This is a example about Git and GitHub, it's just for some practice, and start using git for my daily life.
